@@ -1,0 +1,19 @@
+# Kim Gabriel (Gabriel Kim Narvasa)
+
+> Shopify and WordPress developer in Cebu, Philippines. Customizes and manages Shopify and WordPress websites and builds custom React and Next.js sites. Works remotely, in US-friendly hours (9 PM to 6 AM Philippine time).
+
+## Services
+- Your business idea: Have an idea, or a business that needs more customers? Tell me what you want to achieve and I will build the website or store around it and keep it updated.
+- Shopify stores: Already have a store? I change your theme, add the features you need and keep it updated, so it is cleaner and easier to buy from on a phone.
+- WordPress websites: I customize and manage WordPress sites with page builders, so they look credible and stay easy to update.
+- Custom websites: I build the site from scratch with React and Next.js, with one clear goal and one clear button.
+- Store and website management: I keep your website or online store updated, fixed and improving, so you can focus on your business.
+- Website migration: I migrated 500+ websites (2,500+ pages) from one website builder to another at IONOS.
+
+## Pages
+- [Home](https://kimgabriel.pages.dev/): services, featured work, process, FAQ
+- [All work](https://kimgabriel.pages.dev/work): 11 live client websites
+
+## Links
+- GitHub: https://github.com/kimnarvasa1802
+- Contact: WhatsApp and email buttons on the home page (https://kimgabriel.pages.dev/#start)

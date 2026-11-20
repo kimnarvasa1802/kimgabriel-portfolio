@@ -1,0 +1,14 @@
+# Security headers for every page
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/img/*
+  Cache-Control: public, max-age=604800
+
+# Keep preview deployments (hash.kimgabriel.pages.dev) out of search results.
+# Production (kimgabriel.pages.dev) is NOT matched by this pattern.
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
